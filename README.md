@@ -6,8 +6,7 @@ This is a learning-oriented full-stack application for exploring modern DevOps p
 
 ## 🛠️ Development Environment
 
-
-The development environment is containerized using [Devpod](https://devpod.dev/) and configured with [mise](https://mise.jdx.dev/) and [chezmoi](https://www.chezmoi.io/)
+The development environment is containerized using [Devpod](https://devpod.dev/) and configured with [mise](https://mise.jdx.dev/) and [chezmoi](https://www.chezmoi.io/).
 
 ## 🐍 Python Application
 
@@ -15,17 +14,6 @@ The app (both backend & frontend) is written in Python and lives in the /src dir
 
 ## 🐳 Docker Build
 
-The project uses a multi-stage Docker build for small, production-ready images.
-
-## ⚙️ CI/CD with GitHub Actions
-
-=======
-The development environment is containerized using [Devpod](https://devpod.dev/) and configured with **[mise](https://mise.jdx.dev/) and **[chezmoi](https://www.chezmoi.io/)
-
-## 🐍 Python Application
-The app (both backend & frontend) is written in Python and lives in the /src directory. It uses uv as the fast, modern Python package manager and runner.
-
-## 🐳 Docker Build
 The project uses a multi-stage Docker build for small, production-ready images.
 
 ## ⚙️ CI/CD with GitHub Actions
@@ -36,4 +24,3 @@ The project includes a CI/CD pipeline defined under .github/workflows/. The pipe
 - Python Coverage tests
 - Docker image build
 - Security scan using Trivy
-
