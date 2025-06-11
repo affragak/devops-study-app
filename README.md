@@ -20,7 +20,8 @@ The project uses a multi-stage Docker build for small, production-ready images.
 
 The project includes a CI/CD pipeline defined under .github/workflows/. The pipeline automates:
 
-- Linting and formatting checks
-- Python Coverage tests
-- Docker image build
-- Security scan using Trivy
+- Linting and testing
+- Test Coverage
+- Security scanning with Trivy
+- Automated versioning and release creation
+- Building and pushing images
