@@ -1,4 +1,4 @@
-# DevOps Study App Repo
+# DevOps Study App
 
 This is a learning-oriented repo for exploring modern DevOps practices. It serves as a foundation for experimenting with development containers, multi-stage Docker builds, GitHub Actions CI/CD pipelines, security scanning, and a full-stack Python application.
 
