@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/affragak/devops-study-app/compare/frontend-v0.1.2...frontend-v0.1.3) (2025-06-14)
+
+
+### Bug Fixes
+
+* **ci-docker-build-push:** trigger ci for testing ([#30](https://github.com/affragak/devops-study-app/issues/30)) ([ec1be45](https://github.com/affragak/devops-study-app/commit/ec1be4512c7308c051ead06807c67b3bc769aac0))
+
 ## [0.1.2](https://github.com/affragak/devops-study-app/compare/frontend-v0.1.1...frontend-v0.1.2) (2025-06-14)
 
 
