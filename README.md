@@ -18,10 +18,12 @@ The project uses a multi-stage Docker build for small, production-ready images.
 
 ## ⚙️ CI/CD with GitHub Actions
 
-The project includes a CI/CD pipeline defined under .github/workflows/. The pipeline automates:
+The project includes CI/CD pipelines defined under .github/workflows/. The pipelines automate:
 
-- Linting and testing
-- Test Coverage
+- Linting and formatting checks
+- Python Test Coverage
 - Security scanning with Trivy
+- End-to-End Testing in Kubernetes
 - Automated versioning and release creation
-- Building and pushing images
+- Building and pushing docker images
+- Automating PRs on release, updating a gitops repo.
