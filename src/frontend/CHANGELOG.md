@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/affragak/devops-study-app/compare/frontend-v0.1.3...frontend-v0.1.4) (2025-06-14)
+
+
+### Bug Fixes
+
+* **gitops:** fix tags for build-push ci ([#33](https://github.com/affragak/devops-study-app/issues/33)) ([9700dde](https://github.com/affragak/devops-study-app/commit/9700dde05568c060df4f52a88673e28067ae6426))
+
 ## [0.1.3](https://github.com/affragak/devops-study-app/compare/frontend-v0.1.2...frontend-v0.1.3) (2025-06-14)
 
 
