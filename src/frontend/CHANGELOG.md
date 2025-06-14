@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/affragak/devops-study-app/compare/frontend-v0.1.1...frontend-v0.1.2) (2025-06-14)
+
+
+### Bug Fixes
+
+* **gha:** ci backend ([#27](https://github.com/affragak/devops-study-app/issues/27)) ([8bac685](https://github.com/affragak/devops-study-app/commit/8bac685d33a20ae15b458d8e61ec02e463f61fb8))
+
 ## [0.1.1](https://github.com/affragak/devops-study-app/compare/frontend-v0.1.0...frontend-v0.1.1) (2025-06-14)
 
 
